@@ -1,0 +1,30 @@
+{
+  "name": "mono_coinbase_sdk_node",
+  "version": "0.0.1",
+  "description": "This is a sdk of coinbase for nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://denlly@github.com/denlly/mono_coinbase_sdk_node.git"
+  },
+  "keywords": ["coinbase", "nodejs"],
+  "author": "denlly <79107345@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denlly/mono_coinbase_sdk_node/issues"
+  },
+  "directories": {
+    "lib": "./libs"
+  },
+  "homepage": "https://github.com/denlly/mono_coinbase_sdk_node#readme",
+  "dependencies": {
+    "axios2": "^0.15.4",
+    "http-errors": "^1.6.3",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
